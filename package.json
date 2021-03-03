@@ -16,6 +16,6 @@
     "express-session": "^1.16.2",
     "express-validator": "^6.2.0",
     "mongoose": "^5.7.3",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
