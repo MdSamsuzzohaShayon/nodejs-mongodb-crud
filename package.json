@@ -1,0 +1,27 @@
+{
+  "name": "node-mysql-crud",
+  "version": "1.0.0",
+  "description": "- Node.js mysql crud [tutorial](https://www.youtube.com/watch?v=f5kye3ESXE8&t=924s)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdSamsuzzohaShayon/nodejs-mongodb-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdSamsuzzohaShayon/nodejs-mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/MdSamsuzzohaShayon/nodejs-mongodb-crud#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
